@@ -1,0 +1,1 @@
+This project deals with the Sentiment analysis of IMDB's movie reviews. It comares various algorithms and compares their confidence and accuracy. Use Stanford's POS-Tagger in this project
